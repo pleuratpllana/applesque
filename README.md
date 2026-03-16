@@ -21,16 +21,16 @@ It’s an ideal showcase for portfolio projects or learning modern frontend arch
 ## Features
 
 ### Product Browsing
-- **Product Listing Page** — Grid layout displaying real Apple products, searchable, filterable by category and price, with sorting options (low-high, high-low, newest, popular)
-- **Product Details Page** — Full product image, description, price, add/remove/update cart functionality
+- **Product Listing Page** - Grid layout displaying real Apple products, searchable, filterable by category and price, with sorting options (low-high, high-low, newest, popular)
+- **Product Details Page** - Full product image, description, price, add/remove/update cart functionality
 
 ### Cart Management
-- **Cart Page** — Displays all cart items, quantities, subtotal, and checkout mock flow
-- **Global State** — Managed with Zustand for seamless updates across pages
+- **Cart Page** - Displays all cart items, quantities, subtotal, and checkout mock flow
+- **Global State** - Managed with Zustand for seamless updates across pages
 
 ### Navigation
-- **Mobile** — Persistent bottom navigation: Home, Products, Cart, Profile placeholder
-- **Desktop** — Minimal top navigation: logo left, search center, cart right; additional navigation for Categories, Products, Sales pages
+- **Mobile** - Persistent bottom navigation: Home, Products, Cart, Profile placeholder
+- **Desktop** - Minimal top navigation: logo left, search center, cart right; additional navigation for Categories, Products, Sales pages
 
 ### UI / UX
 - Light and dark mode with system preference detection
@@ -54,13 +54,13 @@ It’s an ideal showcase for portfolio projects or learning modern frontend arch
 - **Product comparison**
 - **Wishlist / favorites functionality**
 - **Backend integration for real-time product data**
-- **Reviews / ratings** — Users can rate and leave reviews for products
-- **3D product viewer / AR preview** — Interactive 3D previews of products
-- **Bundle suggestions** — “Frequently bought together” product recommendations
-- **Admin dashboard mock** — Mock interface to manage products, orders, and users
-- **Recently viewed products** — Tracks user activity for personalized suggestions
-- **Smart search suggestions** — Auto-complete with product hints
-- **AI-powered recommendations** — Suggests best solutions and cheapest products according to user budget
+- **Reviews / ratings** - Users can rate and leave reviews for products
+- **3D product viewer / AR preview** - Interactive 3D previews of products
+- **Bundle suggestions** - “Frequently bought together” product recommendations
+- **Admin dashboard mock** - Mock interface to manage products, orders, and users
+- **Recently viewed products** - Tracks user activity for personalized suggestions
+- **Smart search suggestions** - Auto-complete with product hints
+- **AI-powered recommendations** - Suggests best solutions and cheapest products according to user budget
 
 
 ## Getting Started
