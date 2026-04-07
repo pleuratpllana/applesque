@@ -67,6 +67,9 @@ It’s an ideal showcase for portfolio projects or learning modern frontend arch
 - Smart search suggestions - Auto-complete with product hints  
 - AI-powered recommendations - Suggests best solutions and cheapest products according to user budget  
 
+## Live Demo
+https://applesque.pleuratpllana.com/
+
 ## Getting Started
 
 ```bash
@@ -81,3 +84,4 @@ npm install
 
 # Start the development server
 npm start
+
